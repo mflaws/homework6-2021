@@ -82,9 +82,8 @@ footer{
    -webkit-animation-duration: 15s;
            animation-duration: 15s;
     object-fit: contain;
-
-
 }
+
 
 .pricing{
     min-height: 450px;
@@ -106,8 +105,8 @@ footer{
   background: #fff;
   border-radius: 7px;
   padding: 0 0 25px 0;
-  -ms-flex-preferred-size: 400px;
-      flex-basis: 400px;
+  -ms-flex-preferred-size: 450px;
+      flex-basis: 450px;
 }
 
 .card > header{
@@ -214,8 +213,8 @@ header{
 @media screen and (min-width: 850px){
 
   .card {
-    -ms-flex-preferred-size: 225px;
-        flex-basis: 225px;
+    -ms-flex-preferred-size: 250px;
+        flex-basis: 250px;
   }
 
   .card_big{
@@ -250,8 +249,8 @@ header{
 
 @media print {
   .card {
-    -ms-flex-preferred-size: 200px;
-        flex-basis: 200px;
+    -ms-flex-preferred-size: 250px;
+        flex-basis: 250px;
   }
 
   body{
